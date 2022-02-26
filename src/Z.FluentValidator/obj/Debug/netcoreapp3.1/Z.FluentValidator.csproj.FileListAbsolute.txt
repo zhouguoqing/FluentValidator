@@ -1,0 +1,9 @@
+F:\GitHub\Source\Repos\FluentValidator\src\Z.FluentValidator\bin\Debug\netcoreapp3.1\Z.FluentValidator.deps.json
+F:\GitHub\Source\Repos\FluentValidator\src\Z.FluentValidator\bin\Debug\netcoreapp3.1\Z.FluentValidator.dll
+F:\GitHub\Source\Repos\FluentValidator\src\Z.FluentValidator\bin\Debug\netcoreapp3.1\Z.FluentValidator.pdb
+F:\GitHub\Source\Repos\FluentValidator\src\Z.FluentValidator\obj\Debug\netcoreapp3.1\Z.FluentValidator.csprojAssemblyReference.cache
+F:\GitHub\Source\Repos\FluentValidator\src\Z.FluentValidator\obj\Debug\netcoreapp3.1\Z.FluentValidator.AssemblyInfoInputs.cache
+F:\GitHub\Source\Repos\FluentValidator\src\Z.FluentValidator\obj\Debug\netcoreapp3.1\Z.FluentValidator.AssemblyInfo.cs
+F:\GitHub\Source\Repos\FluentValidator\src\Z.FluentValidator\obj\Debug\netcoreapp3.1\Z.FluentValidator.csproj.CoreCompileInputs.cache
+F:\GitHub\Source\Repos\FluentValidator\src\Z.FluentValidator\obj\Debug\netcoreapp3.1\Z.FluentValidator.dll
+F:\GitHub\Source\Repos\FluentValidator\src\Z.FluentValidator\obj\Debug\netcoreapp3.1\Z.FluentValidator.pdb
