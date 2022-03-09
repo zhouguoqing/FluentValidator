@@ -6,10 +6,12 @@
 
   <ItemGroup>
     <Compile Remove="Validator.Dates.cs" />
+    <Compile Remove="Validator.Numbers.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Validator.Dates.cs" />
+    <None Include="Validator.Numbers.cs" />
   </ItemGroup>
 
 </Project>
