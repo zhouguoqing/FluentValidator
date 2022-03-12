@@ -11,6 +11,7 @@ namespace Z.FluentValidator
     {
         #region " Constructor "
 
+
         /// <summary>
         /// Validate properties and types using this class
         /// </summary>
