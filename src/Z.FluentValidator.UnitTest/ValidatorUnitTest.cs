@@ -20,5 +20,15 @@ namespace Z.FluentValidator.UnitTest
             Validator validator = new Validator();
             validator.IsNotNull(null).WithMessage("Parameter is null").ThrowValidationException("Ex-0001");
         }
+
+        [TestMethod]
+        public void IsNotTest()
+        {
+            Validator validator = new Validator();
+            validator.IsNot(()=>
+            {
+                return 1 == 2;
+            }).WithMessage("1!=2");
+        }
     }
 }
