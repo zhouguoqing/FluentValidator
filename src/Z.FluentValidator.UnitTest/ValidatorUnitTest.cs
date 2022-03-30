@@ -30,5 +30,16 @@ namespace Z.FluentValidator.UnitTest
                 return 1 == 2;
             }).WithMessage("1!=2");
         }
+
+        [TestMethod]
+        [ExpectedException(typeof(Exception))]
+        public void IsNotThrowTest()
+        {
+            Validator validator = new Validator();
+            validator.IsNot(() =>
+            {
+                return 1 == 2;
+            }).WithMessage("1!=2").ThrowValidationException("Ex-0002"); ;
+        }
     }
 }
